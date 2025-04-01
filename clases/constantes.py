@@ -1,2 +1,6 @@
-class Constantes:
-    pass
+ENTREGADO:str = 'Entregado'
+DEVOLVER:str = 'Devolver'
+USER:str = 'root'
+HOST:str = 'localhost'
+PASSWORD:str = ''
+DATABASE:str = 'proyecto_prog'
