@@ -4,3 +4,6 @@ class Alumno:
         self.Apellidos = Apellidos
         self.TramoConcedido = TramoConcedido
         self.Seccion = Seccion
+
+    def __str__(self):
+        return f'{self.Nombre}:{self.Apellidos}:{self.TramoConcedido}:{self.Seccion}'
