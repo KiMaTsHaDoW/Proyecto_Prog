@@ -1,5 +1,0 @@
-ENTREGADO:str = 'Entregado'
-DEVOLVER:str = 'Devolver'
-F_ALUMNOS = 'alumnos.txt'
-F_PRESTAMOS = 'prestamos.txt'
-F_LIBROS = 'libros.txt'
