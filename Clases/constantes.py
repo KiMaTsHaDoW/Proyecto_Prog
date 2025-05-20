@@ -12,5 +12,5 @@ ARCHIVO_ALUMNOS:Path = Path('ficheros') / 'alumnos.txt'
 ARCHIVO_LIBROS:Path = Path('ficheros') / 'libros.txt'
 ARCHIVO_PRESTAMOS:Path = Path('ficheros') / 'prestamos.txt'
 
-USER:str = 'usuario'
-PASSWORD:str = 'usuario1'
+USER:str = 'Admin'
+PASSWORD:str = 'Admin1'
